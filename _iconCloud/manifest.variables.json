@@ -86,7 +86,7 @@
   },
     {
     "type": "Value",
-    "value": "Icons",
+    "value": "Visual Studio Code",
     "valueType": "Text",
     "referenceOnly": true,
     "name": "collectionName"
