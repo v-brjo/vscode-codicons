@@ -16,7 +16,7 @@
   "iconType": "Glyph",
   "lastUpdated": "2020-10-23T12:00Z",
   "libraryInfoKey": "8df73c1d1",
-  "libraryName": "VS Code Icons",
+  "libraryName": "Visual Studio Code",
   "libraryProperties":
   {
     "copyPreviewTypes": "Glyph",
@@ -25,6 +25,7 @@
     "downloadDefaultSize": "32",
     "downloadTypes": "Svg",
     "libraryFileNameBase": "VsCodeIcons",
+    "libraryGroupName": "Visual Studio Icons",
     "libraryIconSizes": "16,24,32,40,48,56,64",
     "metadata-1-dataMapping": "Icon:iconKeywords",
     "metadata-1-dataStyle": "ClickablePill",
