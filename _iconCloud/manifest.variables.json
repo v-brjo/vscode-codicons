@@ -84,7 +84,7 @@
     "valueType": "Text",
     "name": "iconShortName"
   },
-    {
+  {
     "type": "Value",
     "value": "Visual Studio Code",
     "valueType": "Text",
@@ -121,6 +121,12 @@
     "valueType": "None",
     "values": [],
     "name": "iconArtifacts"
+  },
+  {
+    "type": "Value",
+    "valueType": "Text",
+    "name": "collectionFileNamePrefix",
+    "value": "VsCodeIcons"
   },
   {
     "type": "Value",

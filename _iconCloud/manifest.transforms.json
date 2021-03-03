@@ -159,9 +159,45 @@
     },
     "variable": "_CollectionData_"
   },
-  
   {
     "method": "Clear",
+    "variable": "collectionArtifacts"
+  },
+  {
+    "method": "AddIfFileExists",
+    "params": {
+      "property": "_TtfFileProperty_",
+      "filePath": "libraryArtifactTtfFilePath",
+      "rootPath": "_RootPath_",
+      "filePathsCache": "_FilePathsCache_"
+    },
+    "variable": "collectionArtifacts"
+  },
+  {
+    "method": "AddIfFileExists",
+    "params": {
+      "property": "_WoffFileProperty_",
+      "filePath": "libraryArtifactWoffFilePath",
+      "rootPath": "_RootPath_",
+      "filePathsCache": "_FilePathsCache_"
+    },
+    "variable": "collectionArtifacts"
+  },
+  {
+    "method": "AddIfFileExists",
+    "params": {
+      "property": "_Woff2FileProperty_",
+      "filePath": "libraryArtifactWoff2FilePath",
+      "rootPath": "_RootPath_",
+      "filePathsCache": "_FilePathsCache_"
+    },
+    "variable": "collectionArtifacts"
+  },
+  {
+    "method": "AddToVariableBag",
+    "params": {
+      "value": "collectionFileNamePrefix"
+    },
     "variable": "collectionArtifacts"
   },
   {
